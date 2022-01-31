@@ -1,0 +1,20 @@
+{
+  "name": "session-analyser",
+  "version": "1.0.0",
+  "description": "Analyses the logs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js",
+    "config": "npm start config",
+    "scan": "npm start scan",
+    "compare": "npm start compare"
+  },
+  "author": "Raveendra Tudangil",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^9.0.0",
+    "moment": "^2.29.1",
+    "relaxed-json": "^1.0.3"
+  }
+}

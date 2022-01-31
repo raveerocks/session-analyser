@@ -1,0 +1,58 @@
+{
+  "options": {
+    "rest": {
+      "sort": "inTimePerc",
+      "desc": "true"
+    },
+    "selenium": {
+      "sort": "inTimePerc",
+      "desc": "true"
+    },
+    "appium": {
+      "sort": "inTimePerc",
+      "desc": "true"
+    }
+  },
+  "sessions": [
+    {
+      "rest": "./logs/compare/session1/rest.log",
+      "selenium": "./logs/compare/session1/selenium.log"
+    },
+    {
+      "rest": "./logs/compare/session2/rest.log",
+      "selenium": "./logs/compare/session2/selenium.log"
+    },
+    {
+      "rest": "./logs/compare/session3/rest.log",
+      "selenium": "./logs/compare/session3/selenium.log"
+    },
+    {
+      "rest": "./logs/compare/session4/rest.log",
+      "selenium": "./logs/compare/session4/selenium.log"
+    },
+    {
+      "rest": "./logs/compare/session5/rest.log",
+      "selenium": "./logs/compare/session5/selenium.log"
+    },
+    {
+      "rest": "./logs/compare/session6/rest.log",
+      "appium": "./logs/compare/session6/selenium.log"
+    },
+    {
+      "rest": "./logs/compare/session7/rest.log",
+      "appium": "./logs/compare/session7/selenium.log"
+    },
+    {
+      "rest": "./logs/compare/session8/rest.log",
+      "appium": "./logs/compare/session6/selenium.log"
+    },
+    {
+      "rest": "./logs/compare/session9/rest.log",
+      "appium": "./logs/compare/session9/selenium.log"
+    },
+    {
+      "rest": "./logs/compare/session10/rest.log",
+      "appium": "./logs/compare/session10/selenium.log"
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+{
+  "rest": "./logs/compare/session5/rest.log",
+  "appium": "./logs/compare/session6/selenium.log"
+}
